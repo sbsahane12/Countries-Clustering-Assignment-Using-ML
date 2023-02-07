@@ -1,4 +1,4 @@
-# [Project  5: Countries  Clustering  Assignment Using ML(https://github.com/sbsahane12/Countries-Clustering-Assignment-Using-ML.git) 
+# [Project  5: Countries  Clustering  Assignment Using ML](https://github.com/sbsahane12/Countries-Clustering-Assignment-Using-ML.git) 
 ## Problem Statement
 HELP International is an international humanitarian NGO that is committed to fighting poverty and  providing the people of backward countries with basic amenities and relief during the time of  disasters and natural calamities
 After the recent funding programmes, they have been able to raise around $ 10 million. Now the  CEO of the NGO needs to decide how to use this money strategically and effectively.
